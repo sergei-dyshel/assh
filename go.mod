@@ -21,7 +21,6 @@ require (
 	github.com/haklop/gnotifier v0.0.0-20140909091139-0de36badf601
 	github.com/huandu/xstrings v1.3.1 // indirect
 	github.com/imdario/mergo v0.3.12
-	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-zglob v0.0.3
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/mitchellh/copystructure v1.0.0 // indirect
@@ -30,13 +29,13 @@ require (
 	github.com/moul/flexyaml v0.0.0-20171225152558-f458bfa8afe2
 	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil v2.20.9+incompatible
-	github.com/smartystreets/goconvey v1.6.6
+	github.com/smartystreets/goconvey v1.7.2
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.8.1
+	github.com/spf13/viper v1.9.0
 	github.com/urfave/cli v1.22.5
 	go.uber.org/zap v1.19.1
-	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
+	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
+	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4
+	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 )
